@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🫀 CardioPredictX
+# 🫀 CardioPredictX: A Novel Adaptive Ensemble Framework with Quantum-Inspired Feature
+Optimization for Ultra-Precise Heart Disease Prognosis – Achieving State-of-the-Art
+Accuracy and Interpretability for Clinical Deployment
+
 
 ### Ultra-Precise Heart Disease Prediction with Quantum-Inspired Optimization
 
