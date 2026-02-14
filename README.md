@@ -10,6 +10,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18642393-blue)](https://doi.org/10.5281/zenodo.18642393)
+[![DOI](https://zenodo.org/badge/1140506613.svg)](https://doi.org/10.5281/zenodo.18643447)
+
 
 **[Live Demo](https://cardiopredictx-heart-disease-ml-de6iako4h8oxjngqphk6cg.streamlit.app/)** • **[Preprint](https://doi.org/10.5281/zenodo.18642393)** • **[Documentation](#documentation)**
 
